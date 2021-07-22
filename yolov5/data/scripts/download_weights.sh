@@ -10,3 +10,5 @@ for x in ['s', 'm', 'l', 'x']:
     attempt_download(f'yolov5{x}.pt')
 
 EOF
+
+mv yolov5*.pt weights/ultralytics

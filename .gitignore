@@ -6,7 +6,7 @@ __pycache__
 yolov5/datasets/*/
 yolov5/inference/output/
 yolov5/runs/
-yolov5/weights/*
+yolov5/weights/*/*.pt
 
 results.csv
 notes.md
