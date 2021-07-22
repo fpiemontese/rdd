@@ -1,2 +1,4 @@
 -r yolov5/requirements.txt
 gdown
+pafy
+youtube_dl
