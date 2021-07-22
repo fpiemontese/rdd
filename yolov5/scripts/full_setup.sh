@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 bash scripts/dataset_setup_for_yolov5.sh
 
 # Download ultralytics weights
-bash weights/download_weights.sh
+bash data/scripts/download_weights.sh
 
 # Download IMSC weights
 bash scripts/download_IMSC_grddc2020_weights.sh
